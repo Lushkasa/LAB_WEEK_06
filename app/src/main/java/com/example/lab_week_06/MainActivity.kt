@@ -62,6 +62,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Manx,
+                    "Manx",
+                    "Sweet cat that is gentle and playful",
+                    "https://cdn2.thecatapi.com/images/gU5wUcOuo.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Snowshoe,
+                    "Snowshoe",
+                    "Love being around people",
+                    "https://cdn2.thecatapi.com/images/S1CN1w6Bt.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.TurkishAngora,
+                    "Turkish Angora",
+                    "This is a smart and intelligent",
+                    "https://cdn2.thecatapi.com/images/y3l3iYWa4.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Chartreux,
+                    "Chartreux",
+                    "Silent but communicative",
+                    "https://cdn2.thecatapi.com/images/j6oFGLpRG.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Korat ,
+                    "Korat",
+                    "Silent but communicative",
+                    "https://cdn2.thecatapi.com/images/1TcC-kiI1.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Himalayan,
+                    "Himalayan",
+                    "Excellent companions",
+                    "https://cdn2.thecatapi.com/images/kg7nc0poR.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.Munchkin,
+                    "Munchkin",
+                    "An outgoing cat",
+                    "https://cdn2.thecatapi.com/images/a1g4Ycw-z.jpg"
                 )
             )
         )
